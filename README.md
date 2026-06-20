@@ -5,4 +5,4 @@ npm run dev
 ```
 
 preview
-<img width="1536" height="1558" alt="image" src="https://github.com/user-attachments/assets/eeb5aa7f-a804-4930-986d-80643218f289" />
+<img width="1920" height="2368" alt="image" src="https://github.com/user-attachments/assets/41a82640-d248-4463-80ba-4f660a1d3032" />
